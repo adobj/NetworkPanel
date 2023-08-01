@@ -255,7 +255,7 @@ ipcn()
 ipgb()
 laycn()
 laygb()
-ckbl()
+// ckbl()
 
 document.addEventListener("visibilitychange", function() {
     var string = document.visibilityState
